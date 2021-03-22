@@ -1,2 +1,2 @@
 config:
-    login:master branch,springcloud-config/config=prod.yml   version=1
+    login: master branch,springcloud-config/config-prod.yml   version=1
